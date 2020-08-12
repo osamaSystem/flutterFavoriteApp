@@ -1,6 +1,6 @@
 # flutterapp
 
-A new Flutter application .
+Flutter Favorite application .
 
 ## Getting Started
 
